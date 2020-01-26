@@ -20,6 +20,7 @@ public class SpringBootExampleSts {
 
 	public static void main(String[] args) {
 		logger.info("Spring boot executed......");
+		logger.info("Spring boot successfully......");
 		SpringApplication.run(SpringBootExampleSts.class, args);
 	}
 }
